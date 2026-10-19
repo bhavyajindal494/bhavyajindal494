@@ -1,12 +1,12 @@
 # Hi, I’m Bhavya 👋
 
-I build responsive web projects and interactive experiences with HTML, CSS, JavaScript, and Three.js.
+I build responsive web experiences and interactive 3D projects with HTML, CSS, JavaScript, and Three.js.
 
-## Featured projects
+## Featured work
 
-- [APEX Fitness Storefront](https://github.com/bhavyajindal494/hackathon) — A responsive storefront prototype for a fictional sports nutrition brand, with product listings and an in-memory cart demo.
-- [Raksha Bandhan Gift Experience](https://github.com/bhavyajindal494/Rakhi-Gift) — An interactive celebration site with photo memories, gift choices, a quiz, and a personal message.
+- **[Orbital Atlas](https://github.com/bhavyajindal494/orbital-atlas)** — An interactive 3D star system with selectable worlds, orbit controls, and cinematic lighting. [Explore the live atlas →](https://bhavyajindal494.github.io/orbital-atlas/)
+- **[APEX Fitness Storefront](https://github.com/bhavyajindal494/hackathon)** — A responsive storefront concept for a sports nutrition brand, with product listings and a cart demo.
 
-## Tools
+## What I’m exploring
 
-HTML · CSS · JavaScript · Three.js
+Three.js · WebGL · Creative coding · Responsive interface design
